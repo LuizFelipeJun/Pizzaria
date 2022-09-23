@@ -1,6 +1,7 @@
 body{
-	background-color: blanchedalmond;
+	background: linear-gradient(salmon 0%, orange 100%);
 	background-repeat: no-repeat;
+	color: salmon;
 }
 
 .topnav {
